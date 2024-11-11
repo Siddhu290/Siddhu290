@@ -1,4 +1,4 @@
-Hi there 👋 I'm Siddhu More!
+Hi there 👋 I'm Siddharth More!
 
 About Me
 🔭 Currently working on Data Science and Machine Learning.
